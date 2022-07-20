@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q</head> <body> <header> <a href=\"#\">Home</a> <a href=\"#\">About</a> <a href=\"#\">Skills</a> <a href=\"#\">Projects</a> <a href=\"#\">Contact me</a> </header> <main> <h1>This is my content</h1> <p> Hi.\\E$"}
