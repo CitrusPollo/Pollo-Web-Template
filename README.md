@@ -4,6 +4,7 @@ Here's my first website created with [Tailwind CSS](https://tailwindcss.com/). T
 
 <p align="center">
   <img src="img/pollo.png" alt="Chocobo" width="100%"/>
+  A chonky Chocobo render. Retrieved from <a href="https://www.creativeuncut.com/gallery-25/ff15-chocobo-render.html">Creative Uncut</a>
 </p>
 
 My goal here is to learn how to make a responsive website using a CSS framework that I can be comfortable with while disregarding content for now. 
