@@ -13,7 +13,7 @@ My goal here simply is to learn how to make a responsive webpage using a CSS fra
   <img src="img/pollo_mobile.png" alt="Chocobo" width="30%%"/>
 </p>
 
-I learned using [Bootstrap 5](https://getbootstrap.com/) previously because of its responsive grid system, but Tailwind seems more attractive because of its customization--and it has a proper dark mode!
+I learned using [Bootstrap 5](https://getbootstrap.com/) previously because of its responsive grid system, but Tailwind CSS seems more attractive because of its customization--and it has a proper dark mode!
 
 The design I used is derived from a good [tutorial](https://youtu.be/dFgzHOX84xQ) by Brad of [Traversy Media](https://www.youtube.com/c/TraversyMedia) on Youtube. My plans moving forward is to learn [React JS](https://reactjs.org/) alongside Tailwind CSS to incorporate more dynamic elements in the site.
 
