@@ -7,7 +7,7 @@ Here's my first webpage created with [Tailwind CSS](https://tailwindcss.com/). T
   My page showing a chonky Chocobo. Render retrieved from <a href="https://www.creativeuncut.com/gallery-25/ff15-chocobo-render.html">Creative Uncut</a>
 </p>
 
-My goal here is to learn how to make a responsive webpage using a CSS framework that I can be comfortable with while disregarding content for now. 
+My goal here simply is to learn how to make a responsive webpage using a CSS framework that I can be comfortable with while disregarding content for now. 
 
 <p align="center">
   <img src="img/pollo_mobile.png" alt="Chocobo" width="30%%"/>
