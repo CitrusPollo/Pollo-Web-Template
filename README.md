@@ -1,6 +1,6 @@
 # My first responsive web template 🐔 
 
-Here's my first webpage created with [Tailwind CSS](https://tailwindcss.com/). This page has a chicken theme because chickens are wonderful. One of the best classes of chicken are [Chocobos](https://finalfantasy.fandom.com/wiki/Chocobo) as shown below and in the [page](index.html).
+Here's my first webpage created with [Tailwind CSS](https://tailwindcss.com/). This page has a chicken theme because chickens are wonderful. One of the best classes of chicken are [Chocobos](https://finalfantasy.fandom.com/wiki/Chocobo) (from the JRPG game Final Fantasy) as shown below and in the [page](index.html).
 
 <p align="center">
   <img src="img/pollo.png" alt="Chocobo" width="100%"/>
